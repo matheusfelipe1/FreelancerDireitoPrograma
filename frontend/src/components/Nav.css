@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    background-color: darkgrey;
+    flex: content;
+}
+
+.div-home a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding:  15px;
+    font-weight: 00;
+}
+
+.nav a:hover {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding:  15px;
+    font-weight: 00;
+    
+    color: white;
+}
+
+
+.fa {
+    padding-right: 5px;
+}
