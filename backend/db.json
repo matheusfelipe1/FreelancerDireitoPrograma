@@ -1,0 +1,23 @@
+{
+    "estagiarios":[
+        {
+            "nome": "matheus",
+            "cpf": "1234567990",
+            "email": "matheus@gmail.com",
+            "linkedin": "matheus@gmail.com",
+            "cell": "1234567",
+            "rg": "1337",
+            "cep": "1234567",
+            "logradouro": "rua 10",
+            "numero": "258",
+            "complemento": "casa b",
+            "bairro": "canada",
+            "cidade": "Contagem",
+            "estado": "Minas Gerais",
+            "carteirinhaOAB": "136454",
+            "areaDeApetidao": "juridico",
+            "experienciaProf": []
+
+        }
+    ]
+}

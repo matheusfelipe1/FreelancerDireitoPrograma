@@ -1,0 +1,42 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 15px 15px;
+
+}
+
+.conjunto {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.conjunto label {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.campos {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    
+}
+
+label {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.cep {
+    width: 30%;
+}
+
+.select {
+    display: block;    
+    width: 40%;
+}
